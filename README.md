@@ -6,7 +6,7 @@
 
 
 🔵 **Website**
-[![Personal Information](https://img.shields.io/badge/%3Csohrab%20khanbadr%3E-%3CPersonal%20Website%3E-%3Cgrey%3E)](https://sohrabkhanbadr.github.io/)
+[![Personal Information](https://img.shields.io/badge/github-sohrabkhanbadr-A9A9A9)](https://sohrabkhanbadr.github.io/)
 [![Static Badge](https://img.shields.io/badge/sohrabkhanbadr.ir-7FFFD4)](https://sohrabkhanbadr.ir/)
 
 # 💫 About Me:
