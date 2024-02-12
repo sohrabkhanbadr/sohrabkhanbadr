@@ -7,7 +7,7 @@
 
 🔵 **Website**
 [![Personal Information](https://img.shields.io/badge/%3Csohrab%20khanbadr%3E-%3CPersonal%20Website%3E-%3Cgrey%3E)](https://sohrabkhanbadr.github.io/)
-[![Personal Information](https://img.shields.io/badge/%3Csohrab%20khanbadr%3E-%3CPersonal%20Website%3E-%3Cblue%3E)](https://sohrabkhanbadr.ir/)
+[![Static Badge](https://img.shields.io/badge/sohrabkhanbadr.ir-7FFFD4)](https://sohrabkhanbadr.ir/)
 
 # 💫 About Me:
 🔭 I’m currently working on AI-based project.<br>👯 I’m looking to collaborate on public-based problem.<br>🤝 I’m looking for help with  implementing article ideas. <br>🌱 I’m currently learning Laravel(PHP)<br>💬 Ask me about  python maybe i can help.<br>⚡ Fun fact about me is i love coffee but not all time.
